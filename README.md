@@ -1,6 +1,6 @@
 # ALEXSIS2.0
 
-The ALEXIS+ and ALEXSIS++ datasets are divided into three sub-corpora corresponding to the three languages, being English (EN), Spanish (ES), and Portuguese (PT). Each dataset has the following nine headers separated by tab (\textbackslash t):  
+The ALEXIS+ and ALEXSIS++ datasets are divided into three sub-corpora corresponding to English (EN), Spanish (ES), and Portuguese (PT). Each dataset has the following nine headers separated by tab (\textbackslash t):  
 
 <ul>
   <li>\textbf{ID}: instance id that is made up of the original instance id (e.g. 01) and the new additional context id. (e.g. 104): 01-104.</li>
