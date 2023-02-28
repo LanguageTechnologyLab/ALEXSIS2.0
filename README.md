@@ -56,7 +56,7 @@ ALEXSIS+ has a total of 12,831, 13,353, and 13,541 matched complex words in uniq
   </tr>
      
   <tr>
-    <td><b>Gold.Labels</b></td>
+    <td><b>Gold.Label@n</b></td>
     <td>The original gold candidate substitutions provided by TSAR-2022.</td>
   </tr>    
 
