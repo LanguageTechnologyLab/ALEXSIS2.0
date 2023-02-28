@@ -1,20 +1,25 @@
 # ALEXSIS2.0
 
-ALEXSIS+ has a total of 12,831, 13,353, and 13,541 matched complex words in unique contexts for English, Spanish, and Portuguese, respectively. The larger ALEXSIS++ dataset contains matched complex words in 33,149 unique contexts only for English. Each dataset has the following nine headers separated by tab (\t):  
+ALEXSIS+ has a total of 12,831, 13,353, and 13,541 matched complex words in unique contexts for English, Spanish, and Portuguese, respectively. The larger ALEXSIS++ dataset contains matched complex words in 33,149 unique contexts only for English. Each dataset has the following nine headers separated by tab (\t).  
 
 
 <table>
     
    <tr>
-    <th><b>ID</b></th>
-    <th><b>ALEXSIS.CW</b></th>
-    <th><b>ALEXSIS.Context</b></th>
-    <th><b>Candidate.Subs@n</b></th>
-    <th><b>Additional.Context</b></th>
-    <th><b>Additional.Subs@n</b></th>
-    <th><b>Sent.Sim</b></th>
-    <th><b>Word.Sim</b></th>
-    <th><b>Gold.Labels</b></th>
+    <th>Header</th>
+    <th>Description</th>
+  </tr>
+    
+   <tr>
+    <td><b>ID</b></td>
+    <td><b>ALEXSIS.CW</b></td>
+    <td><b>ALEXSIS.Context</b></td>
+    <td><b>Candidate.Subs@n</b></td>
+    <td><b>Additional.Context</b></td>
+    <td><b>Additional.Subs@n</b></td>
+    <td><b>Sent.Sim</b></td>
+    <td><b>Word.Sim</b></td>
+    <td><b>Gold.Labels</b></td>
   </tr>
 
    <tr>
