@@ -51,7 +51,7 @@ ALEXSIS+ has a total of 12,831, 13,353, and 13,541 matched complex words in uniq
   </tr>
 
   <tr>
-    <td><b>Word.Sim</b></td>
+    <td><b>Word.Sim@n</b></td>
   <td>The cosine similarities between the word embeddings of the additional candidate substitutions and the original complex word provided by TSAR-2022.</td>
   </tr>
      
