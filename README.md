@@ -6,7 +6,7 @@ ALEXSIS+ has a total of 12,831, 13,353, and 13,541 matched complex words in uniq
 <table>
     
    <tr>
-    <th><b>ID</b>:</th>
+    <th><b>ID</b></th>
     <th><b>ALEXSIS.CW</b></th>
     <th><b>ALEXSIS.Context</b></th>
     <th><b>Candidate.Subs@n</b></th>
