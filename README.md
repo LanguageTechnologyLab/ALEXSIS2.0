@@ -4,7 +4,12 @@ ALEXSIS+ has a total of 12,831, 13,353, and 13,541 matched complex words in uniq
 
 
 <table>
-    <tr>
+    
+   <tr>
+    <td>Header</td>
+    <td>Description</td>
+  </tr>
+   <tr>
     <td>instance id that is made up of the original instance id (e.g. 01) and the new additional context id. (e.g. 104): 01-104.</td>
     <td>the original complex word taken form ALEXSIS and used at TSAR-2022.</td>
     <td> the original context for the given complex word taken form ALEXSIS and used at TSAR-2022.</td>
